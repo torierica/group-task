@@ -8,6 +8,7 @@
 ### 自主練習
 請用 PR 方式在以下回傳個人連結：
 - Erica - https://ericacadu.github.io/course-work/login.html
+- Erica2 - https://torierica.github.io/git-practice/
 
 ### 挑戰參考連結
 - [Github Pages - 免費網頁空間隨你開](https://youtu.be/njlABvVRB68?t=419)（7分處至 23分）
